@@ -8,19 +8,19 @@ A Python desktop app for managing invoices, clients, and reports, featuring:
 
 ## Project Structure
 
-invoice_manager/
-├── LICENSE
-├── README.md
-├── main.py
-├── db/
-│   └── database.py
-├── ui/
-│   └── main_window.py
-├── utils/
-│   ├── excel_tools.py
-│   ├── pdf_tools.py
-│   └── email_tools.py
-├── requirements.txt
+invoice_manager/ <br>
+├── LICENSE <br>
+├── README.md<br>
+├── main.py<br>
+├── db/<br>
+│   └── database.py<br>
+├── ui/<br>
+│   └── main_window.py<br>
+├── utils/<br>
+│   ├── excel_tools.py<br>
+│   ├── pdf_tools.py<br>
+│   └── email_tools.py<br>
+├── requirements.txt<br>
 
 ## Features
 
